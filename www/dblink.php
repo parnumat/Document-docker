@@ -1,3 +1,3 @@
 <?php
-$link = @mysqli_connect("db", "root", "test", "dataleague") or die(mysqli_connect_error());
+$link = @mysqli_connect("db", "root", "test", "myDb") or die(mysqli_connect_error());
 ?>
